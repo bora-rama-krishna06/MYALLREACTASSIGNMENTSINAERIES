@@ -1,0 +1,29 @@
+.container
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: blanchedalmond;
+}
+.text
+{
+  font-size: 60px;
+}
+.counter
+{
+  font-size: 80px;
+  margin-top: 10px;
+  margin-bottom:25px; 
+}
+.button
+{
+background-color: rgb(182, 182, 255);
+color: rgb(0, 0, 0);
+border: none;
+border-radius: 15px;
+width: 180px;
+padding: 8px;
+margin: 15px;
+}

@@ -1,0 +1,46 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+  margin-left: 200px;
+  margin-right: 40px;
+}
+
+.card-2 {
+  
+  border-top: 5px solid #00a8e7;
+}
+.card-3 {
+  border-top: 5px solid #44c4a1;
+  margin-left: 200px;
+  margin-right: 40px;
+}
+body
+{
+  background-color:#ece8e8 ;
+}
+.card-4 {
+  border-top: 5px solid #fcc200;
+}
+.container
+{
+  border-radius: 20px;
+  margin-top: 30px;
+  padding: 20px;
+  width:380px;
+    background-color: white;
+ display: inline-block;
+}
+.image{
+  float: right;
+}
+@media screen and (max-width: 570px) {
+  .container {
+      flex-direction: column; 
+  }
+  .card-1{
+    margin-left: 0px;
+  }
+  .card-3
+  {
+    margin-left: 0px;
+  }
+}

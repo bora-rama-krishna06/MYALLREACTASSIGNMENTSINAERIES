@@ -1,0 +1,45 @@
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  margin: 88px;
+  height: 80vh;
+  background-color:white;
+}
+.heading {
+  font-family: Roboto;
+  font-size: 40px;
+}
+body {
+  background-color: #ffd569;
+}
+span {
+  color: #ffd569;
+}
+.images
+{
+ display: flex;
+ margin-top: 20px;
+}
+img
+{
+    width: 300px;
+    margin:40px;
+}
+button
+{
+    background-color: #007bff;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+    padding: 2px;
+    color: white;
+    height: 30px;
+    margin: 20px;
+    
+}
+.mango
+{
+  margin-right: 250px;
+}

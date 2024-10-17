@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} 
+.text
+{
+  text-align: center;
+}
+.text1
+{
+  text-align: center;
+  padding-top: 28px;
+}
+@media screen and (max-width: 570px) {
+.text{
+  text-align: center;
+  padding-left: 80px;
+}
+.text1{
+  text-align: center;
+  padding-left: 80px;
+}
+}

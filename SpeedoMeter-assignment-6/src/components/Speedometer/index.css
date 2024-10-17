@@ -1,0 +1,60 @@
+.head
+{
+    font-family: Segoe UI;
+    padding-top: 50px;
+    color: aliceblue;
+    font-size: 50px;
+}
+body{
+    background-color: black;
+}
+.image
+{
+    padding-top: 30px;
+    width: 800px;
+}
+.container
+{
+    display: flex;
+    flex-direction: column;
+ padding-top: 30px;
+    align-items: center;
+}
+.meter
+{
+    color: aliceblue;
+    font-size: 30px;
+    font-family: Roboto;
+}
+.button
+{
+  display: flex;
+  flex-direction: row;
+  margin: 15px;
+}
+.speed
+{
+  background-color: blue;
+  border: none;
+  width: 120px;
+  height: 30px;
+  color: aliceblue;
+  font-family: Roboto;
+  border-radius: 5px;
+  margin: 15px;
+}
+.break
+{
+    margin: 15px;
+background-color: black;
+height: 30px;
+color: white;
+width: 120px;
+border-radius: 5px;
+border: 1px solid white;
+}
+.warn
+{
+    color: white;
+    font-family: Roboto;
+}

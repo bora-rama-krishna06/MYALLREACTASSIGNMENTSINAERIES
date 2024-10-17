@@ -1,0 +1,41 @@
+/* Write your code here. */
+.info
+{
+background-color: #0b69ff;
+}
+.warn
+{
+background-color: #ffb800;
+}
+.err
+{
+background-color:#ff0b37 ;
+}
+.suc
+{
+background-color:#2dca73 ;
+}
+.text
+{
+    text-align: center;
+}
+.er
+{
+    width: 500px;
+    margin-top: 10px;
+    margin-left: 350px;
+    border-radius: 4px;  
+    height: 20px;
+    margin-top: 30px;
+    padding: 30PX;
+    display: flex;
+}
+.d
+{
+    padding-top: 3px;
+    padding-right: 5px;
+}
+.pa
+{
+    padding-top: 10px;
+}
