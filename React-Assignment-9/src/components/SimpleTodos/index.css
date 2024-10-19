@@ -1,0 +1,18 @@
+.head
+{
+    padding-top: 70px;
+    text-align: center;
+    padding-bottom: 50px;
+    color:#ff8542 ;
+}
+.container1
+{
+    background-color: aliceblue;
+    margin: 30px;
+}
+.list
+{
+    margin:50px;
+    padding:200px;
+    padding-top: 0px;
+}
